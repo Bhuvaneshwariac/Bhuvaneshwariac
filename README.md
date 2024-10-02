@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ergonomic-analysis-using-Rula-and-Reba-assessment](https://github.com/Bhuvaneshwariac/Ergonomic-analysis-using-Rula-and-Reba-assessment)
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on [Open-Elective-Faculty-Picker](https://github.com/Bhuvaneshwariac/Open-Elective-Faculty-Picker)
 
